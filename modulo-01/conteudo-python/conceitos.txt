@@ -1,0 +1,19 @@
+listas = nome_lista = []
+- print(len(nome lista)) mostra a quantidade de itens em uma lista
+- if item in nome_lista  verifica se algo esta na lista
+
+tuple = nome_tuple = ()  os itens da tuple nao podem ser alterados
+- tuple_lista = list(nome_tuple) transforma a tuple em uma lista
+
+dicionario = nome_dicionario = {"numero":"12"} guarda valores em categorias (ou lista)
+- print(nome_dicionario["mumero"])  para ver os itens desta categoria
+
+operadores
+!= verifica se dois valores sao diferentes
+%  mostra o resto de uma divisão
+== compara dois valores - = atribui um valor a algo
+
+operadores logicos
+and = true se todas as condições forem verdadeiras
+or = true se pelo menos 1 das condições forem verdadeiras
+not = inverte o valor. se for true = false, se for false = true
