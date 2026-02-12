@@ -17,3 +17,6 @@ operadores logicos
 and = true se todas as condições forem verdadeiras
 or = true se pelo menos 1 das condições forem verdadeiras
 not = inverte o valor. se for true = false, se for false = true
+
+types
+int = numeros inteiros
