@@ -20,3 +20,13 @@ not = inverte o valor. se for true = false, se for false = true
 
 types
 int = numeros inteiros
+float = numeros decimais
+
+funções em loops
+continue = vai para o proximo loop
+break = encerra o loop
+for c, v in dicionario.items(): = variaveis em dicionarios usam .items para mostrar chave e valor
+.value = so para valor
+.keys = so para chaves
+
+/n = quebra de linha
