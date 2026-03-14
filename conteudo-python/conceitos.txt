@@ -12,6 +12,7 @@ operadores
 != verifica se dois valores sao diferentes
 %  mostra o resto de uma divisão
 == compara dois valores - = atribui um valor a algo
+.2f coloca um limite de casas decimais
 
 operadores logicos
 and = true se todas as condições forem verdadeiras

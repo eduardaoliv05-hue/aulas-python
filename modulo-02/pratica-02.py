@@ -1,0 +1,13 @@
+nome = input("Digite seu nome completo: ")
+idade = int(input("Digite sua idade: "))
+cartao = input("digite o numero do seu cartao de credito: ")
+codigo = input("digite o codigo de seguranca do seu cartao: ")
+cpf = input("digite seu cpf: ")
+
+print("\n========= confirme seus dados =========")
+print (f"nome: {nome}")
+print (f"idade: {idade}")
+print (f"cartao: {cartao}")
+print (f"codigo: {codigo}")
+print (f"cpf: {cpf}")
+print("==========================================")

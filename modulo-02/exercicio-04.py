@@ -1,0 +1,5 @@
+numero = int(input("digite um numero: "))
+print (f"o numero {numero} é par? {numero % 2 == 0}")
+print (f"o dobro de {numero} é {numero * 2}")
+print (f"a metade é {numero / 2}")
+print (f"e o quadrado é {numero ** 2}")
