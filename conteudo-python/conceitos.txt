@@ -31,3 +31,8 @@ for c, v in dicionario.items(): = variaveis em dicionarios usam .items para most
 .keys = so para chaves
 
 /n = quebra de linha
+
+commit no github
+    git add .
+    git commit -m "modulo 3"
+    git push
