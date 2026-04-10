@@ -35,4 +35,4 @@ for c, v in dicionario.items(): = variaveis em dicionarios usam .items para most
 commit no github
 git add .
 git commit -m "modulo 3"
-git push
+git push -u origin main
