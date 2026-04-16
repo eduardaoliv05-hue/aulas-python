@@ -1,6 +1,7 @@
 listas = nome_lista = []
 - print(len(nome lista)) mostra a quantidade de itens em uma lista
 - if item in nome_lista  verifica se algo esta na lista
+- .split() = separa o texto por espaços e adiciona na lista
 
 tuple = nome_tuple = ()  os itens da tuple nao podem ser alterados
 - tuple_lista = list(nome_tuple) transforma a tuple em uma lista
@@ -31,8 +32,9 @@ for c, v in dicionario.items(): = variaveis em dicionarios usam .items para most
 .keys = so para chaves
 
 /n = quebra de linha
+enumerate = numero nas linhas
 
 commit no github
 git add .
-git commit -m "modulo 3"
+git commit -m "atualizando"
 git push -u origin main
