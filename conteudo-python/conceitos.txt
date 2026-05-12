@@ -9,6 +9,8 @@ tuple = nome_tuple = ()  os itens da tuple nao podem ser alterados
 dicionario = nome_dicionario = {"numero":"12"} guarda valores em categorias (ou lista)
 - print(nome_dicionario["mumero"])  para ver os itens desta categoria
 
+set = dados armazenados em set nao podem ter repetiçoes
+
 operadores
 != verifica se dois valores sao diferentes
 %  mostra o resto de uma divisão
