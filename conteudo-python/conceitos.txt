@@ -35,6 +35,7 @@ for c, v in dicionario.items(): = variaveis em dicionarios usam .items para most
 
 /n = quebra de linha
 enumerate = numero nas linhas
+split() divide o texto em palavras usando espaço como separador
 
 commit no github
 git add .
